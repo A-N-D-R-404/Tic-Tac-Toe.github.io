@@ -1,5 +1,4 @@
-#sub-expire: 2026-11-04T20:00:00Z
-#notification-subs-expire: 1
+#announce: ⚠️ Срок действия подписки истек. Пожалуйста, обновите конфигурации.
 vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20US%20%231
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&sni=wordpress.com&fp=chrome&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&type=tcp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%231
 ss://YWVzLTEyOC1nY206NTgyYzY0YjAwM2M0MjIxNDM0MWE5MDkxMjY0NTRiZTU@95.141.37.29:18173#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%231
