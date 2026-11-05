@@ -1,2 +1,7 @@
 #sub-expire: 2026-11-06T23:59:59Z
-vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android#US
+#profile-title: V-Merge 🚀
+#announce: Обновлено: 05.11.2026 02:20 | Конфигов: 771 | Автообновление
+#profile-web-page-url: https://alexanderru44.github.io/V-Merge.github.io/
+#support-url: https://t.me/V_Merge_VPN
+#profile-update-interval: 1
+vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20US%20%231
